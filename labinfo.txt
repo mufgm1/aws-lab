@@ -1,0 +1,5 @@
+Lab: Configure Lifecycle Rule for Photos S3 Bucket
+URL: https://623743916939.signin.aws.amazon.com/console?region=us-west-2
+A: 623743916939
+U: pluralsight-7478cc47
+P: dc58fa23-49c8-4d78-b118-93541c194a61
