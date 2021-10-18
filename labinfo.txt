@@ -3,3 +3,15 @@ URL: https://277999938856.signin.aws.amazon.com/console?region=us-west-2
 A: 277999938856
 U: pluralsight-325cfc4d
 P: 1cf6d40a-fe71-43a6-8448-199cb4dc9461
+
+Martyn.Wilkins@globomantics.com
+AWS Administrators
+
+Asmaa.Squires@globomantics.com
+Developers
+
+Allegra.Mcgill@globomantics.com
+Dev Ops Engineers
+
+Warwick.Ahmad@globomantics.com
+IT Management
