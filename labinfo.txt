@@ -1,17 +1,6 @@
 Lab: Configure Lifecycle Rule for Photos S3 Bucket
 URL: https://277999938856.signin.aws.amazon.com/console?region=us-west-2
-A: 277999938856
-U: pluralsight-325cfc4d
-P: 1cf6d40a-fe71-43a6-8448-199cb4dc9461
+A: 315400186477
+U: pluralsight-f99182ea
+P: d07a4d87-c5e5-4b00-b440-dc7b42f8ece9
 
-Martyn.Wilkins@globomantics.com
-AWS Administrators
-
-Asmaa.Squires@globomantics.com
-Developers
-
-Allegra.Mcgill@globomantics.com
-Dev Ops Engineers
-
-Warwick.Ahmad@globomantics.com
-IT Management
