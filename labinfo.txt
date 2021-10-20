@@ -4,3 +4,15 @@ A: 315400186477
 U: pluralsight-f99182ea
 P: d07a4d87-c5e5-4b00-b440-dc7b42f8ece9
 
+{    
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::YOUR-BUCKET-NAME-HERE/*"
+        }
+    ]
+}
